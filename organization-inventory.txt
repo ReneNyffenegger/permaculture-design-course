@@ -1,0 +1,28 @@
+[Use this file to answer question #10, #15, and #21.]
+
+The Organization Inventory lists the groups that interact with
+the property.  Each group in the group inventory must also copy
+and fill out the organization-requirements-template.txt file.
+
+Current Organizations
+=====================
+
+ + Permaculture Institute
+ + Kells + Craig
+ + ...
+
+Future Organizations
+====================
+
+[If a "Current Group" has requirements that are not being met, also
+ add it's name to this "Future Groups" section.]
+
+ + ...
+
+Obsolete Organizations
+======================
+
+[Any group listed here should also be listed in the "Current Groups"
+ section.]
+
+ + ...

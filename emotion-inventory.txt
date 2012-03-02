@@ -1,0 +1,23 @@
+[Use this file to answer questions #8, #14, #20, #25, and #26.]
+
+The emotion inventory is a reference (with parenthetically similar
+emotions) for checking-in about group, organization, and individual
+requirements.
+
+Feeling is one of three attributes associated with each requirement:
+place, skill, and feeling.
+
+Part of the requirements gathering is to check-in with yourself
+about each requirement.  A check-in is not judgemental: you
+experience all of these emotions and as such they should be
+represented in your environment roughly in the proportion you
+experience them.  They are a sensemaking tool.
+
+ * apprehension (alternatively: fear, terror)
+ * amazement    (alternatively: surprise, distraction)
+ * sadness      (alternatively: pensiveness, grief)
+ * boredom      (alternatively: disgust, loathing)
+ * annoyance    (alternatively: anger, rage)
+ * interest     (alternatively: anticipation, vigilance)
+ * joy          (alternatively: serenity, ecstasy)
+ * admiration   (alternatively: trust, acceptance)

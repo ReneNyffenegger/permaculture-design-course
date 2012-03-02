@@ -1,0 +1,136 @@
+SCIM
+====
+
+There are six basic ways in which people die, and three sets of
+essential services which protect them.
+
+Shelter protects from:
+  1. Too Hot
+  2. Too Cold
+
+Supply protects from:
+  3. Hunger
+  4. Thirst
+
+Safety protects from:
+  5. Illness
+  6. Injury
+
+Shelter
+-------
+
+Shelter refers not just to the home, but to the essential services
+like power, cooling, heating and so on that make it habitable year
+round.
+
+Supply
+------
+
+We all need regular food and water to stay alive.
+
+Safety
+------
+
+Protection from illness and injury is provided by health care,
+public health, hospitals, sanitation infrastructure, police,
+security services and the military.
+
+
+Layers of Infrastructure
+------------------------
+
+1. Individual
+2. Household
+3. Neighborhood
+4. Municipality / Town / City
+5. Region
+6. Country
+7. International
+
+For purposes of this document, layers of infrastructure above the
+Household will not be discussed.  They are assumed to exist.
+
+
+Four tiers of cooperation
+--------------------------
+
+1. Individuals
+2. Groups
+3. Organizations
+4. Nation States
+
+Individuals, groups, organizations and nation states are the four
+tiers of cooperation possible when individuals work together. Each
+tier requires its own infrastructure plus the infrastructure of the
+tiers of cooperation it rests upon.
+
+Individuals make up groups using infrastructure to enable connection
+and cohesion.
+
+Individuals in groups sharing common purposes form organizations
+which require social infrastructure to maintain their effectiveness.
+
+Individuals, working together in organizations and groups, form the
+nation state which requires infrastructure to provide services for
+the benefit of individual citizens.
+
+For the rest of this document, the Nation State will be assumed to
+exist and won't be further discussed.
+
+
+SCIM: Group
+-----------
+
+A group is any collection of people. It could be as few as two.
+Typical groups include families, fellow travelers on a bus or a
+plane, or any social group.
+
+The basic requirements for a group to exist are fairly similar.  Most
+groups require communications, transport, and space. They use
+infrastructure like offices, cell phones and car pools.  Internal
+systems keep resources available where they are needed.
+
+1. Communications
+   A group has to be able to exchange messages (voice, phones, mail,
+   SMS) or it cannot act together.
+2. Space
+   Most groups need places to physically gather, like a home for a
+   family or a local cafe for a set of friends.
+3. Transportation
+   Groups that do not simply stay in one place need to have members be
+   able to leave and return.  Walking counts.
+4. Resource Control
+   Shared resources are used in a way that supports the group.
+5. Additional Needs
+   Any needs other than critical infrastructure that supports this
+   group.
+
+
+SCIM: Organization
+------------------
+
+An organization is a special kind of group with a purpose beyond the
+combined purposes of the members. Hospitals, police forces, fire
+brigades, armies and schools are all examples of organizations.
+
+An effective organization has all the needs of a group, plus three
+necessary pieces of "social	shared infrastructure." These give an
+plan organization the coordination and unity of purpose that it
+needs. Social infrastructure is often as essential to an
+organization's success as physical infrastructure.
+
+Organizations often require specialized accommodation and equipment
+to fulfill their purpose. These additional infrastructure needs must
+also be mapped.
+
+1. Shared Map
+   The people in an organization must share a map of reality - their
+   aims, responsibilities, environment of operation and so on. Some
+   fraying is acceptable, but not much.
+2. Shared Plan
+   From the shared map comes a shared plan, subject to the diffusion of
+   power and responsibility within the organization.
+3. Shared Succession Model
+   Most importantly, if the current leadership of an organization is
+   not performing, there must be a shared model of how to select new
+   leaders.  This can be critical in times of urgent crisis.

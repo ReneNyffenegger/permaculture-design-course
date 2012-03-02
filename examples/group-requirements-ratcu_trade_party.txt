@@ -1,0 +1,131 @@
+[ratcu the packrat has provided this example to demonstrate how to use
+ the group-requirements template.]
+
+Group Requirements
+==================
+
+Group Name: Trading Party
+
+We sometimes having trading parties where we bring shiny things to
+exchange for other shiny things!
+
+1) Communication
+----------------
+
+We definitely need some way of letting everyone know it's time for a
+party!
+
+### Current
+
+  I don't do any of the communication for trading parties.  I show
+  up when I hear about them.
+
+### Future
+
+  It never occurred to me that I might have to plan one.  Maybe I
+  will someday...
+
+  Places:          I'm not so social.  It would be a long walk to
+                   let everyone know about a trading party.  I
+                   wonder how it happens now?  Maybe there's a
+                   hill nearby where I can see a long way?
+  Skills:          I'm very curious and willing to ask questions of
+                   anyone.  Usually that hasn't helped in social
+                   environments.  Maybe it could!
+  Primary Emotion: I have a lot of apprehension over my having to do
+                   this.
+
+
+2) Space
+--------
+
+### Current
+
+  In order to have a trading party we all need enough space to lay
+  out blankets and show everyone what we brought!
+
+  Places:          We all gather near the tumble mustard by the
+                   ditch.
+  Skills:          I can carry quite a lot of shiny things.  And
+                   then one more!  What is that!
+  Primary Emotion: I always get distracted at Trading Parties.
+
+
+### Future
+
+  We most certainly cannot meet at my midden.  I have too many shiny
+  things there!
+
+
+3) Transportation
+----------------
+
+### Current
+
+  One day my friend brought a whole wagon with her!  It carried a whole
+  lot.  I just walk with as much as I can carry.  I always find
+  shiny things along the way, and exchange it for something I'm already
+  carrying.  It's how I figure out how to get home, too: I leave a trail!
+
+  Places:          I maintain the trail from my midden to the
+                   trading party.
+  Skills:          I've never thought about it.  Probably though my
+                   natural curiosity helps.
+  Primary Emotion: I'm usually pretty annoyed that I can't carry
+                   more.
+
+
+### Future
+
+  I don't think I need to change anything.  But maybe that wagon is
+  a good idea? 
+
+
+4) Resource Control
+-------------------
+
+### Current
+
+  I can never quite remember what I set out with, nor can I be sure
+  of what I'll come back with.  It depends on what I find along the
+  way!
+
+  Places:          I'm pretty sure if it's on my trail no one else
+                   would touch it.
+  Skills:          I have good observation skills.  It helps me make
+                   sure I have enough shiny things.
+  Primary Emotion: Joy.  I play with the shiny things I trade for
+                   all day.
+
+
+### Future
+
+  I would like that wagon, now that I think about it.
+
+  Places:          I need a place in my midden to unload it.
+  Skills:          I might need help unloading.  If I started
+                   planning my own Trading Parties, maybe I could
+                   develop the social skills to inspire people to
+                   help me!
+  Primary Emotion: It would take a lot of trust to let someone
+                   unload my wagon.  Or to come to my midden.
+
+
+5) Additional Needs
+-------------------
+
+### Current
+
+  I can't think of any right now!
+
+
+### Future
+
+  But I probably will think of some!
+
+
+Obsolete Uses
+-------------
+
+  If I did have a wagon, I may not have to store so many of my
+	things on my Trail.

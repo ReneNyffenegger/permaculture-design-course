@@ -1,0 +1,26 @@
+[Use this file to answer question #3.  Use this file as a reference for
+answering question #6, #12, #18, #23, and #26.]
+
+The Place Inventory lists the distinct places on the property.
+Distinct places can overlap, or one place can be fully contained
+within another.  Every part of the property should be at least one
+place, however.
+
+Place is one of three attributes associated with each requirement:
+place, skill, and feeling.
+
+ - House
+    - kitchen
+    - bedroom
+    - bathroom
+ - Patio
+ - Straw Bale Studio
+    - Covered Porch
+ - Shed
+ - Wood Rack
+ - Driveway
+ - Food Forest
+ - Garden
+    - Keyhole bed #1
+    - Keyhole bed #2
+ - Chicken Coop

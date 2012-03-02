@@ -1,0 +1,489 @@
+"What do you want for the rat's life?"
+
+The Coyote looked menacing--as menacing as his hungry eyes would make
+him.  He stared the distance between himself and the turtle, casting
+furtive glances at the mouse peering squished out from under the turtle's
+shell.
+
+"Hello dear coyote.  My name is cakyrespa. This rat here is my friend.
+Her name is ratcu.  Will you tell us your name?"
+
+Coyote sat down in the assumption of a peaceful demeanor.  So quickly
+he didn't know he had done so before saying "Forgive my haste patient
+cakyrespa.  My name is ko'otli.  ratcu and I were playing a game, and I
+got carried away."
+
+Interrupting from the branches of the Cottonwood tree above them, Owl
+announced her presence.  "I do not think, wise cakyrespa, that you will
+resolve this conflict."
+
+"You did not alight upon that tree to tell me that, glauka."
+cakyrespa did not take his eyes off ko'otli.
+
+"Another human is ready to talk.  I've called a moot."  glauka didn't need
+to wait for a reply.
+
+--
+
+The full moon illuminated the small hill.  glauka sat on a branch
+a few feet off the ground, with ratcu the rat to his left, cakyrespa
+the turtle before him, and ko'otli the coyote to his right, eyeing
+ratcu.
+
+glauka spoke.  "We have a new project.  A small property that the
+owner has asked our help in making a place for the more-than-human
+world.  I call this moot to discuss and make sense of our needs.
+The sum of our needs will, as always, exceed the capacity of this
+project.  We can and will, through this process, find our world
+better through what we express with this project."
+
+"Let's check-in.  I'm happy for a new opportunity with this land.
+I'm afraid of this process.  I'm in."
+
+"Welcome, glauka."  They all spoke in unison.
+
+ratcu spoke.  "I'm happy because I'm exploring, I'm angry because I
+was about to be someone's dinner.  I'm in."  For the first time ratcu
+returned coyote's gaze.  He was safe in this circle.
+
+"Welcome ratcu."  Again in unison.
+
+In turn, cakyrespa spoke.  "I'm angry that this process will involve
+compromising on our collective needs.  I'm sad everyone will not get
+what they want.  I'm afraid we won't find the correct balance.  I'm
+in."
+
+"Welcome cakyrespa."
+
+coyote spoke.  "I'm sad I went without dinner.  I'm afraid there
+won't be room for my own needs in this process.  I'm in."
+
+"Welcome ko'otli."
+
+glauka began.  "Though we have all done this process before, I
+will as always start at the beginning."
+
+"To bring this land back into the more-than-human world, we must show
+the human inhabitant that we will make room for her.  This we do by
+preparing a Simple Critical Infrastructure Map for the site.  cakyrespa,
+please describe SCIM."
+
+cakyrespa describes SCIM to the assembled animals.  For your reference,
+please find that description attached in the file:
+
+  simple-critical-infrastructure-map
+
+glauka continues "For this moot we will collect the information we
+need to prepare the simple, critical infrastructure map.  We will
+actually prepare two maps, one showing the current infrastructure
+and one showing the infrastructure as we would like it.  The
+difference between these two will be our work."
+
+Creating these maps will be done by filling out select inventories
+and templates.  This should be done as you read by following the
+guides present in the text.
+
+
+Skill Inventory
+===============
+
+  ratcu asks, "What can she do?"
+  cakyrespa responds.  "That question needs to be more specific."
+
+A skill inventory is your embodied knowledge.  We'll focus primarily
+on basic skills: those that are keeping you alive.
+
+1)  [Use the file skill-inventory to record your answer this question.]
+
+    What skills do you possess and/or what training have you had to prevent
+    each of the six ways to die?  Note that this is not access to
+    infrastructure or supply lines, but things like First Aid or the
+    ability to cook.  List only the skills you actively practice.
+      + too hot (e.g., first aid)
+      + too cold (e.g., sewing)
+      + hunger: (e.g., cooking)
+      + thirst: (e.g., water purification)
+      + illness (e.g., NM Environment Department license)
+      + injury (e.g., self-defense training)
+      + additional skills
+
+
+Skill Gap
+=========
+
+  "That isn't much to work with." claims ko'otli.
+  "It's enough to see past your tricks one more day, ko'otli." retorts
+  ratcu.
+  cakyrespa says, "Leave her room to respond herself, ratcu"
+
+When you are missing a basic skill it is called a resilience gap.
+Because you are still alive, That skill is being provided for you by a
+group or organization above you.  having a resilience gap is
+fine: this is a problem to understand, rather than fix.
+
+2)  [Use the file skill-gap to record your answer this question.]
+
+    If you are interested in closing your resilience gap, what skills
+    and/or training would you like have to prevent each of the six ways
+    to die?
+      + too hot
+      + too cold
+      + hunger
+      + thirst
+      + illness
+      + injury
+      + additional skills
+
+
+Place Inventory
+===============
+
+  The meeting was suddenly interrupted: A roadrunner leapt to a
+  nearby boulder, it's wings spread open to a glide.  glauka recognized
+  bajycpi, the scout: "Welcome bajycpi, I am glad you are in attendance."
+
+  bajycpi replied.  "I'm angry I'm late, and happy with the news
+  I bring.  I have fully explored the property, even avoiding a
+  potentially disagreeable and fortunately sleeping dog."
+
+  bajycpi delivered his report to the moot.  You will find it attached as
+	the file place-inventory.  Add your own knowledge to the report provided
+	by bajycpi by answering the question below.
+
+3)  [Please use the file place-inventory to record your answer to this
+     question.]
+
+    Please list all distinct "places" on the property.  Places include
+    structures (e.g., house, garage, shed), areas reserved for specific use
+    (e.g., driveway, garden, path), and null or dead spaces that emerge
+    from answering this question.  A place is different from a use:
+    one place may see many uses.  Every square foot of property has
+    one and only one place.
+
+
+Present
+=======
+
+  "There are 2 dimensions we will use to explore this topic.  Time
+	and social hierarchy."  said glauka.  We will first discuss
+	the present, discussing both groups and organizations.  After
+	establishing where we are, we will discuss the future."
+
+The following questions deal with the present.  When answering them,
+remember to state strictly what is happening now.  There will ample
+opportunity to discuss future plans: whether those plans occur next
+week or years from now.  When discussing the present, be a neutral
+observer and describe the situation as it actually is.  The wished
+for is the path that begins here.
+
+
+Groups
+------
+
+  "I'm still not sure I understand what a group is." says ratcu. 
+  "They're trouble." answers ko'otli.
+
+Please review the file simple-critical-infrastructure-map, section
+"SCIM: Group" to understand what an organization is and how it differs
+from an organization.
+
+4)  [Please use the "Current Groups" section of the file group-inventory
+     to record you answer this question.]
+
+    What Groups (any collection of people, e.g., your family) currently use
+    this property?
+
+[Please use the file group-requirements-template to record your answers to
+the following four questions.]
+
+  "Ah, I get it now.  I can play this game!  Copy what I'm doing.
+  You'll find my work in:"
+
+    examples/group-requirements-ratcu_trade_party
+
+  ratcu smiles.
+
+5)  For each group that currently uses this property, Which of their basic
+    requirements are provided by this property:
+      1) communication
+      2) space
+      3) transportation
+      4) resource control
+      5) additional needs
+
+6)  [please reference the file place-inventory while answering this
+     question.  If you discover a new place on the property while
+     answering this question, remember to record it in the file
+     place-inventory as if you were answering question #3.]
+
+    For each requirement this group has, record one or more places
+    is used to satisfy this requirement.
+
+7)  [please reference the file skill-inventory while answering this
+     question.  If you discover a new skill you possess while
+     answering this question, remember to record it in the file
+     skill-inventory as if you were answering question #1.]
+
+    For each requirement this group has, record one or more skills
+    you use to satisfy this requirement.
+
+8)  [please reference the file emotion-inventory while answering
+     this question.]
+
+    For each requirement this group has, use the one emotion that
+    *best* describes how you feel about it:
+      + apprehension
+      + amazement
+      + sadness
+      + boredom
+      + annoyance
+      + interest
+      + joy
+      + admiration
+
+9)  Which (if any) basic requirements listed in question #5 would be
+    better provided elsewhere?  Which uses are obsolete and should go
+    away?
+
+  "That was not bad." said ratcu.  "Indeed, excellent work." said
+  cakyrespa.  "Are we done?" asked ratcu.  "No." replied cakyrespa.
+  "Because I have not yet eaten." said ko'otli.
+
+
+Organizations
+-------------
+
+  "I see how my Trading Party can be considered a group, but what is
+  an organization?" asked ratcu.
+
+  "An organization is like the rancher and I cooperating to raise
+  chickens that I can eat." said ko'otli.
+
+  "glauka and I have provided an example you can follow along with."
+  said cakyrespa.  "We decided to document this moot.  Find it in:"
+
+    examples/organization-requirements-moot
+
+Please review the file simple-critical-infrastructure-map, section
+"SCIM: Organization" to understand what an organization is and how
+it differs from a group.
+
+10) [Please use the "Current Organizations" section of the file
+     organization-inventory to record you answer this question.]
+
+    What Organizations currently use this property?
+
+
+[Please use the file organization-requirements-template to record your
+ answers to the following four questions.]
+
+11) For each organization that currently uses this property, which of
+    their basic requirements are provided by this property?
+      1) communication
+      2) space
+      3) transportation
+      4) resource control
+      5) shared map (that is, what pieces of infrastructure are
+         shared by members of this organization?)
+      6) shared plan (what activities does the group perform here
+         which requires special infrastructure?)
+      7) shared succession model (which pieces of infrastructure are
+         here only as a result of your membership in the organization?)
+      8) additional needs
+
+12) [please reference the file place-inventory while answering this
+     question.  If you discover a new place on the property while
+     answering this question, remember to record it in the file
+     place-inventory as if you were answering question #3.]
+
+    For each requirement this organization has, record one or more
+    places used to satisfy this requirement.
+
+13) [please reference the file skill-inventory while answering this
+     question.  If you discover a new skill you possess while
+     answering this question, remember to record it in the file
+     skill-inventory as if you were answering question #1.]
+
+    For each requirement this organization has, record one or more
+    skills you use to satisfy this requirement.
+
+14) [please reference the file emotion-inventory while answering
+     this question.]
+
+    For each requirement this group has, use the one emotion that
+    *best* describes how you feel about it:
+      + apprehension
+      + amazement
+      + sadness
+      + boredom
+      + annoyance
+      + interest
+      + joy
+      + admiration
+
+15) Which (if any) basic requirements listed in question #11 would be
+    better provided elsewhere?  Which uses are obsolete and should go
+    away?
+
+  "I had no idea, glauka, that you carried such a burden with this
+  work." expressed ko'otli.
+  "I cannot bring myself to accept that you are truly concerned,
+  ko'otli." replied glauka.
+
+
+Future
+======
+
+  "Having firmly established what is, let us explore what shall be"
+	said glauka.  "Just as it is hard to discuss the present without
+	dreaming, it is hard to dream when burdened by the present.  Let
+	constraint remain with the observer and open your imagination."
+
+
+Groups
+------
+
+16) [Please use the "Future Groups" section of the file group-inventory
+     to record you answer this question.]
+
+    What Groups (any collection of people) would you like to be able
+    to use this property in the future?
+
+[Please use the file group-requirements-template to record your answers to
+the following three questions.]
+
+17) For each group that your would like to provide basic requirements
+    to (which you listed in question #16), which requirements would you
+    like to provide?
+      1) communication
+      2) space
+      3) transportation
+      4) resource control
+      5) additional needs
+
+18) [please reference the file place-inventory while answering this
+     question.  If you discover a new place on the property while
+     answering this question, remember to record it in the file
+     place-inventory as if you were answering question #3.]
+
+    For each requirement this group desires to have fulfilled, record
+    one or more places that will be used to satisfy it.
+
+19) [please reference the file skill-inventory and skill-gap while
+     answering this question.  If you discover a new skill you do
+     or would like to possess while answering this question, remember
+     to record it in the file skill-inventory or skill-gap as if you
+     were answering question #1 or #2.]
+
+    For each requirement this group will have, record one or more
+    skills you will use to satisfy this requirement, whether
+    your currently possess it or not.
+
+20) [please reference the file emotion-inventory while answering
+     this question.]
+
+    For each requirement this group will have, use the one emotion that
+    *best* describes how you feel about it:
+      + apprehension
+      + amazement
+      + sadness
+      + boredom
+      + annoyance
+      + interest
+      + joy
+      + admiration
+
+
+Organizations
+-------------
+
+21) [Please use the "Future Organizations" section of the file
+     organization-inventory to record you answer this question.]
+
+     What Organizations would you like to be able to use this
+     property?
+
+[Please use the file individual-requirements-template to record your
+ answers to the following three questions.]
+
+22)  For each organization that you would like to serve with this
+     property, which of their basic requirements would the property
+     provide?
+       1) communication
+       2) space
+       3) transportation
+       4) resource control
+       5) shared map (that is, what pieces of infrastructure are
+          shared by members of this organization?)
+       6) shared plan (what activities does the group perform here?)
+       7) shared succession model (which pieces of infrastructure are
+          here only as a result of your membership in the organization?)
+       8) additional needs
+
+23) [please reference the file place-inventory while answering this
+     question.  If you discover a new place on the property while
+     answering this question, remember to record it in the file
+     place-inventory as if you were answering question #3.]
+
+    For each requirement this organization desires to have
+    fulfilled, record one or more places that will be used to satisfy
+    it.
+
+24) [please reference the file skill-inventory and skill-gap while
+     answering this question.  If you discover a new skill you do
+     or would like to possess while answering this question, remember
+     to record it in the file skill-inventory or skill-gap as if you
+     were answering question #1 or #2.]
+
+    For each requirement this organization will have, record one or
+    more skills you will use to satisfy this requirement, whether
+    your currently possess it or not.
+
+25) [please reference the file emotion-inventory while answering
+     this question.]
+
+    For each requirement this group will have, use the one emotion that
+    *best* describes how you feel about it:
+      + apprehension
+      + amazement
+      + sadness
+      + boredom
+      + annoyance
+      + interest
+      + joy
+      + admiration
+
+
+Individual
+==========
+
+  "With all of these obligations, what if I wish to merely
+  experience the act of running in the world?" asked bajycpi.
+
+  cakyrespa replied "funktionslust is the highest expression
+  of one's life.  That improvised performance is sacred, and
+  we leave it last so it can be seen without the burden of
+  justification required by obligation."
+
+26) [Please use the file individual-requirements to record
+     your answers to this question.  Please reference the
+     files place-inventory, skill-inventory, skill-gap and
+     emotion-inventory.]
+
+    As an individual, what additional needs do you have for the
+    property?  Just like Groups and Organizations, fill out your
+    current and future needs, making sure to record the place,
+    skill, and emotion associated with each requirement.
+
+    While answering this question, you might discover groups and
+    organizations you had not previously thought of.  For example,
+    if you need Internet access for communication as part of a
+    professional organization, consider filling out an
+    organizations-requirements-template file for that organization
+    and describing the services the property provides to it, even
+    if those services are provided exclusively for your participation.
+
+  glauka said, in closing, "I thank all of you for attending, and for
+  the honor of facilitating this discussion.  Merry meet..."
+
+  "merry part, and merry meet again." they said in unison.

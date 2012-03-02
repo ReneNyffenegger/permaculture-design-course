@@ -1,0 +1,54 @@
+[Use this file to answer question #1.  Use this file as a reference
+for answering question #7, #13, and #19, #24, and #26.]
+
+The Skill Inventory lists the skills I have that I use to prevent
+the 6 ways to die.
+
+Skill is one of three attributes associated with each requirement:
+place, skill, and feeling.
+
+
+1) Too Hot
+==========
+
+ + ...
+
+
+2) Too Cold
+===========
+
+ + ...
+
+
+3) Hunger
+=========
+
+ + ...
+
+
+4) Thirst
+=========
+
+ + ...
+
+
+5) Illness
+==========
+
+ + ...
+
+
+6) Injury
+=========
+
+ + ...
+
+
+7) Additional Skills
+====================
+
+ [list here additional skills not directly related to the 6 ways to
+  die, but that come up as part of the group, organization, and
+  individual requirements exploration.]
+
+ + ...

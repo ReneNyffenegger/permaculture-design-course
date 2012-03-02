@@ -1,0 +1,58 @@
+Glossary
+========
+
+This document describes how terms used within this work relate to
+each other. 
+
+Feeling
+-------
+
+Also called Emotion.
+
+One of three attributes associated with each Requirement.  The other
+two are Place and Skill.
+
+Group
+-----
+
+Any collection of people (e.g., a family).  Also called a community of
+participation: it does not have a purpose above participation of
+it's members.  Groups have Requirements.
+
+See Also: Individual, Organization
+
+Individual
+----------
+
+A specialization of a group containing only one member.  Individuals
+have Requirements.
+
+See Also: Group, Organization
+
+Organization
+------------
+
+Also called a community of practice.  Organizations have
+Requirements.
+
+See Also: Group, Individual
+
+Place
+-----
+
+One of three attributes associated with each requirement.  The other
+two are Skill and Feeling.
+
+Requirement
+-----------
+
+Also called Need.
+
+A way a Group, Organization, or Individual satisfies a need.  Each
+requirement has an associated Place, Skill, and Feeling.
+
+Skill
+-----
+
+One of three attributes associated with each requirement.  The other
+two are Place and Feeling.

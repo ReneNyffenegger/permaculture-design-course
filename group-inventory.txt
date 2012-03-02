@@ -1,0 +1,27 @@
+[Use this file to answer question #4, #9, and #16.]
+
+The Group Inventory lists the groups that interact with the
+property.  Each group in the group inventory must also copy
+and fill out the file group-requirements-template.
+
+Current Groups
+==============
+
+ + ...
+
+
+Future Groups
+=============
+
+[If a "Current Group" has requirements that are not being met, also
+ add it's name to this "Future Groups" section.]
+
+ + ...
+
+Obsolete Groups
+===============
+
+[Any group listed here should also be listed in the "Current Groups"
+ section.]
+
+ + ...

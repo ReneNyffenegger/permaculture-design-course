@@ -1,0 +1,5 @@
+bajycpi the roadrunner
+======================
+
+bajycpi is a scout, able to move freely in a complex environment by
+both running and flying.  bajycpi is agile and fast.

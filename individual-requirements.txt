@@ -1,0 +1,158 @@
+[Use this file to answer question #26.]
+
+Individual Requirements
+=======================
+
+Individual Name:
+
+[describe here the individual.]
+
+1) Communication
+----------------
+
+### Current
+
+  [describe here the currently satisfied communication needs for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+### Future
+
+  [describe here the planned or desired communication needs for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+2) Space
+--------
+
+### Current
+
+  [describe here the currently satisfied communication needs for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+### Future
+
+  [describe here the planned or desired space needs for this group as it
+   pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+3) Transportation
+----------------
+
+### Current
+
+  [describe here the currently satisfied transportation needs for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+### Future
+
+  [describe here the planned or desired space needs for this group as it
+   pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+4) Resource Control
+-------------------
+
+### Current
+
+  [describe here the currently satisfied shared resources needed for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+### Future
+
+  [describe here the planned or desired shared resources needed for this
+   group as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+5) Additional Needs
+-------------------
+
+### Current
+
+  [describe here the currently satisfied additional needs for this group
+   as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+### Future
+
+  [describe here the planned or desired additional needs for this group
+   as it pertains to this property.]
+
+  Places:          [select one or more places used to satisfy this
+                    requirement from the file place-inventory.]
+  Skills:          [select one or more skills used to satisfy this
+                    requirement from the file skill-inventory.]
+  Primary Emotion: [select the primary emotion you feel in regards
+                    to this requirement from the file emotion-inventory.]
+
+
+Obsolete Uses
+-------------
+
+  [describe here any of the above requirements that are obsolete and
+   will be phased out.]
