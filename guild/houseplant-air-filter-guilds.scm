@@ -63,7 +63,7 @@
                  ;;
                  benzene
                  formaldehyde
-                 trichlorethylene
+                 trichloroethylene
                  xylene+toluene
                  ammonia
 
@@ -102,7 +102,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -121,7 +121,7 @@
                   temperature-max:  70
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #t
                   poisonous:        '(unknown)
@@ -137,7 +137,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -155,7 +155,7 @@
                   temperature-max:  80
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -177,7 +177,7 @@
                   temperature-max:  75
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(dogs)
@@ -195,7 +195,7 @@
                   temperature-max:  70
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -211,7 +211,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -231,7 +231,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -249,7 +249,7 @@
                   temperature-max:  75
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #t
                   ammonia:          #t
                   poisonous:        '(unknown)
@@ -269,7 +269,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -288,7 +288,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(poisonous)
@@ -304,15 +304,15 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
                   page-houseplant-encyclopedia: '()
                   page-how-to-grow-fresh-air:   64))
 (set! pot-mum
-      (make-plant en-name:          "Florist's Mum)"
-                  ; also called Pot Mum
+      (make-plant en-name:          "Pot Mum"
+                  ; also called Florist's Mum
                   la-name:          "Chrysanthemum morifolium"
                   habit:            'bush
                   water:            'XXX
@@ -321,7 +321,7 @@
                   temperature-max:  65
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #t
                   ammonia:          #t
                   poisonous:        '(cats dogs)
@@ -337,7 +337,7 @@
                   temperature-max:  65
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -359,7 +359,7 @@
                   temperature-max:  75
                   benzene:          #t
                   formaldehyde:     #f
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -378,7 +378,7 @@
                   temperature-max:  75
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(cats dogs)
@@ -396,7 +396,7 @@
                   temperature-max:  80
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(cats children dogs)
@@ -413,7 +413,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(cats dogs)
@@ -435,7 +435,7 @@
                   temperature-max:  70
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -451,7 +451,7 @@
                   temperature-max:  80
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #t
+                  trichloroethylene: #t
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(cats dogs)
@@ -467,7 +467,7 @@
                   temperature-max:  85
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(cats children dogs)
@@ -484,7 +484,7 @@
                   temperature-max:  70
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -501,7 +501,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -521,7 +521,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #t
                   poisonous:        '(unknown)
@@ -537,7 +537,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -553,7 +553,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -569,7 +569,7 @@
                   temperature-max:  75
                   benzene:          #t
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(poisonous-fruit)
@@ -586,7 +586,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #t
                   poisonous:        '(poisonous)
@@ -606,7 +606,7 @@
                   temperature-max:  75
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -625,7 +625,7 @@
                   temperature-max:  80
                   benzene:          #f
                   formaldehyde:     #f
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #t
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -643,7 +643,7 @@
                   temperature-max:  70
                   benzene:          #f
                   formaldehyde:     #t
-                  trichlorethylene: #f
+                  trichloroethylene: #f
                   xylene+toluene:   #f
                   ammonia:          #f
                   poisonous:        '(unknown)
@@ -817,9 +817,9 @@
     ;
     (required (any identity (map plant-formaldehyde slots)))
 
-    ; make sure someone is filtering trichlorethylene
+    ; make sure someone is filtering trichloroethylene
     ;
-    (required (any identity (map plant-trichlorethylene slots)))
+    (required (any identity (map plant-trichloroethylene slots)))
 
     ; make sure someone is filtering xylene+toluene
     ;
