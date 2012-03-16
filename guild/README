@@ -1,0 +1,278 @@
+The Problem
+===========
+
+The assignment: "Design A Guild."
+
+  A guild is a harmonious assembly of species clustered around a
+  central element (plant or animal).  This assembly acts in relation to
+  the element to assist its health, aid our work in management, or
+  buffer adverse environmental effects (see Figure 3.12).
+
+    (From Permaculture: A Designer's Manual)
+
+  A guild is a group of plants and animals harmoniously interwoven
+  into a pattern of mutual support, often centered around one major
+  species, that benefits humans while creating habitat.
+
+    (From Gaia's Garden, pg. 183)
+
+The tension that is immediately obvious to me is that guilds are
+essentially multi-variable optimization problems.  While the intent
+is to mutually benefit each species in the guild, any system with
+multiple design goals cannot fully optimize all of them.  Inevitably
+you reach a tension between two competing elements in the system.
+
+This negative feedback loop is foundational to ecology: It is clear
+from the above definitions that guilds can operate at several levels
+of abstraction: One could define a food forest as an interlocking set
+of guilds, but any guild could be as few as two plants.
+
+But defining the planet as a single guild in support of it's human
+inhabitants has naturally caused us to reduce the biodiversity of
+that guild in service to optimizing our own population.  Guilds are
+components of restorative design, and within them describe the
+tension in restorative work: a guild will reduce one yield in
+service of a multiplicity of smaller yields.
+
+I find it difficult to hand-solve multi-variable optimization
+problems.  A fundamental feature of these problems is backtracking:
+you are trying to include several elements, and it is not always
+clear as you start to design that you will wind up satisfying all
+of requirements.  An earlier solved requirement may later prove
+untenable and need to be removed, but it must not be forgotten that
+this removes the solution to an earlier problem as well.
+
+I therefor did not consider it workable to "design a guild" and
+instead approach the problem as the enumeration of all possible
+guilds based on a set of constraints.  If necessary, a single guild
+can be chosen from the enumeration while retaining confidence
+than any choice satisfies the requirements of the design.
+
+
+The Existing Research
+=====================
+
+For this assignment, I settled on designing guilds of houseplants.
+NASA has studied houseplants for their ability to sequester volatile
+organic compounds (VOCs) from the air.  In this work, houseplants
+were tested for their ability to filter any of 5 VOCs:
+
+    - benzene
+    - formaldehyde
+    - trichloroethylene
+    - xylene+toluene
+    - ammonia
+
+While some rare plants filter all five VOCs, most filter only a
+subset of the tested VOCs.  Can we design a guild that filters all
+five VOCs?  Will this guild perform in a superior fashion to one of
+the few plants tested to filter all five by itself?
+
+This explores perfectly the tension of guild construction: can you
+get better aggregate filtering of all five VOCs with a guild than
+with a single plant?  Can you introduce other beneficial factors 
+other than the 5 primary goals?  Is there a drawback between the
+level of interdependency introduced by combining these 5 goals?
+
+Multi-variable optimizing is a well studied problem.  Existing work
+in this field includes combinatorial optimization, SAT solvers, and
+to some degree least-squares minimization.
+
+To solve this problem, I decided to use a Constraint Programming
+Library.  A constrain programming library allows you to have a set
+of objects to combine (in this case, plants in our potential guild)
+along with the constraints required to form a valid group.  It's
+a method for looking at all guild permutations and selecting from
+them only the valid sets, based on the specified constraints.
+
+I specifically settled on using Chicken Scheme's amb library.
+The 'Non-Deterministic Backtracking Ambivalence Operator.'  It's
+an implementation of a constraint programming library.
+
+
+The Plants
+==========
+
+The following 31 plants were considered:
+
+  Areca palm
+  Lady palm
+  Bamboo palm
+  Rubber plant
+  Dracaena "Janet Craig"
+  English ivy
+  Dwarf date palm
+  Boston fern
+  Peace lily
+  Corn plant
+  Golden pothos
+  Kimberly queen
+  Pot's mum
+  Gerbera daisy
+  Dracaena "Warneckei"
+  Dragon tree
+  Dumb cane (Exotica)
+  Weeping fig
+  Heartleaf philodendron
+  Snake plant
+  Dumb cane (Camilla)
+  Elephant ear philodendron
+  King of hearts
+  Lily turf
+  Dendrobium orchid
+  Spider plant
+  Chinese evergreen
+  Anthurium
+  Aloe vera
+  Moth orchid
+  Lacy tree philodendron
+
+These plants are an arbitrary subset of the 50 or so that have been
+verified to filter VOCs from the air.  This subset was chosen only
+on the basis of available time.  A full solution to this problem
+would include all known VOC filtering houseplants.
+
+
+The Constraints
+===============
+
+For the purpose of this problem, a guild is defined entirely by
+it's constraints.  A constraint is something like "the guild must
+filter formaldehyde" or "The guild must include one tree-like
+houseplant."
+
+To simplify the problem, I limited the guilds to 3 plants.  The
+following additional constraints were added:
+
+ + the plants in the guild must have compatible growing habits: the
+   first plant was tree-like, the second plant bush-like, the third
+   plant vine-like.
+ + the plants in the guild must have compatible light, watering, and
+   temperature needs.
+ + the guild in it's entirety must filter each of the five volatile
+   organic chemicals:
+    - benzene
+    - formaldehyde
+    - trichloroethylene
+    - xylene+toluene
+    - ammonia
+
+These constraints were chosen based on the 5 primary goals and the
+obvious physical limitations imposed by guild creation.  It was
+hoped that these constraints would result in a manageable number of
+guilds.
+
+
+The Guilds
+==========
+
+After combining the plants and the constraints, I was able to
+generate all valid guilds that satisfy my problem statement.
+
+Of the 31 source plants, 10 appear in the final 16 guilds.
+
+   1: Rubber Plant,             Peace lily, English Ivy
+   2: Rubber Plant,             Peace lily, Heartleaf philodendron
+   3: Dracaena "Janet Craig",   Peace lily, English Ivy
+   4: Dracaena "Janet Craig",   Peace lily, Heartleaf philodendron
+   5: Corn plant,               Peace lily, English Ivy
+   6: Corn plant,               Peace lily, Heartleaf philodendron
+   7: Dragon Tree,              Peace lily, English Ivy
+   8: Dragon Tree,              Peace lily, Heartleaf philodendron
+   9: Dragon Tree,              Lily Turf,  English Ivy
+  10: Dragon Tree,              Lily Turf,  Heartleaf philodendron
+  11: Snake plant,              Peace lily, English Ivy
+  12: Snake plant,              Peace lily, Heartleaf philodendron
+  13: Snake plant,              Lily Turf,  English Ivy
+  14: Snake plant,              Lily Turf,  Heartleaf philodendron
+  15: Lacy Tree Philodendron,   Peace lily, English Ivy
+  16: Lacy Tree Philodendron,   Peace lily, Heartleaf philodendron
+
+You can see that minor variation is responsible for most of the
+guilds: a few 'foundational' plant emerge and requires the support
+of a few other outlier plants.  This result is interesting: the
+definition of guild design states "often centered around one major
+species."
+
+That constraint was not specifically encoded in the constraints
+making up this guild: it emerged from the design.  This suggests
+that that aspect of the definition of a guild is there for human
+convenience: it isn't necessary to strictly require it, it is
+a likely outcome based on the non-equal roles played by each
+plant.
+
+In the case of the above guilds, there are very few bushy and
+vine- type plants, and those plants often filter a variety of
+different VOCs.  They're "superstars" that naturally find themselves
+in guilds with other plants.
+
+Conversely, some single-player "superstar" plants did not find
+their way into any guild: individually they're good at filtering
+VOCs, but they did not match other constraints imposed in guild
+creation.
+
+To arbitrarily satisfy the original problem statement, I select
+guild #14 for my guild design:
+
+  Snake plant, lily turf, and heartleaf philodendron
+
+I think this guild makes an attractive arrangement within a single
+pot.
+
+
+Lessons
+=======
+
+  + A lot of flexibility is needed in the constraint solver.  Both
+    in terms of how the constraints are specified, but also in terms
+    of being able to compare two sets of constraints.  This is where
+    all of the exploration is done, and it helps to be able to make
+    sense of the data produced by each run.  Constraint solvers are
+    really great at performing the grind inherent in guild creation,
+    but the result must still be something a human can make sense
+    of.
+  + The code describing the constraints for a particular guild is a
+    very tiny fraction of the overall code size.  The majority of work
+    was spent compiling, synthesizing, and verifying data on
+    individual plants.  This suggests that the work of creating
+    guilds is secondary to the work of compiling good, verifiably,
+    and testable attributes for plants.  Guild happen nearly
+    automatically from that work.  For all that this assignment was
+    about guilds, it was the discovery and selection of individual
+    plants that dominated the time spent and the quality of the
+    final result.
+
+
+Further Research
+================
+
+  + I used a boolean flag to describe VOC absorption for each plant.
+    This causes plants which absorb all VOCs to appear prominently
+    in many lists.  Adding actual hourly removal rates would make
+    more accurate guilds.
+  + Individual plant water needs is a complex topic.  When I
+    organized plants into one of four watering categories, I found
+    contradiction within individual sources and disagreement between
+    sources.  The results here do not consider watering needs when
+    creating plant guilds.
+      To accurately classify watering needs, the descriptive text
+    should be extracted from each source and grouped into categories.
+    It is too difficult to get a sense of the variation between
+    plants without looking at all plant watering needs in totality.
+  + It would be interesting to design constraints specifically to
+    include "superstar" plants not present in the above guilds.  Are
+    there constraints that would include them, or is there a valid
+    case to be made that some superstars will not function in
+    guilds?
+  + In furtherance of the preceding point: 21 plants in the original
+    data did not appear in any resulting guild.  What constraints
+    excluded them?  Can we create plausible guilds that include a
+    wider variety of plants?
+  + These guilds do not have real-world testing.  Will they work?
+    One compelling possibly did emerge: some houseplants are known
+    to thrive when root bound.  This is an easy problem to solve in
+    a guild, and points out one of many mutually beneficial aspects
+    that emerge almost by accident in guild design.
+      Real-world testing may also uncover clues in the search for
+    attributes that measurably affect guilds but that are not
+    currently modeled.
