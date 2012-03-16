@@ -1,0 +1,23 @@
+ - corn
+ - beans
+ - squash
+ - rocky mountain bee plant [to push the pattern]
+
+beans draw nitrogen from the air
+ + habit: vine
+ + requires: trellis
+ + provides: nitrogen (what is this process?)
+constalk forms a trellist for the bean vines to climb
+ + provides: trellis
+squash covers the ground
+ + shades soil: provided by habit
+	 This prevents water loss, supresses weeds (which need sunlight)
+
+assertion: more food with less water and fertilizer than a similar
+area planted to any one of these three crops in isolation.
+
+Jane Mt. Pleasant, Cornell University: 20% high per-calorie than corn
+alone
+
+This is good, it reduces the limited resources through conversion
+or importation.
