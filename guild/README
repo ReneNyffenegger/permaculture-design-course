@@ -136,6 +136,8 @@ would include all known VOC filtering houseplants.
 The Constraints
 ===============
 
+[For more details, see the file: houseplant-air-filter-guilds.scm]
+
 For the purpose of this problem, a guild is defined entirely by
 it's constraints.  A constraint is something like "the guild must
 filter formaldehyde" or "The guild must include one tree-like
@@ -165,6 +167,8 @@ guilds.
 
 The Guilds
 ==========
+
+For details see the file:  houseplant-VOC-guilds]
 
 After combining the plants and the constraints, I was able to
 generate all valid guilds that satisfy my problem statement.
